@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
+
